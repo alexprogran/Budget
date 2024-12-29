@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     <h1>Olá novo projeto react.</h1>
+     <h1>OLÁ NOVO PROJETO REACT.</h1>
     </>
   )
 }
