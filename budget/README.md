@@ -1,2 +1,2 @@
-O Budget é um  gerenciador de projetos, contolando os custos em todas as etapas.
+O Budget é um  gerenciador de projetos, controla os custos em todas as etapas.
 
