@@ -1,2 +1,2 @@
-Budget, é um app de controle,um  gerenciador de projos que alinha os custos em todas as etapas.
+O Budget é um  gerenciador de projetos, contolando os custos em todas as etapas.
 
